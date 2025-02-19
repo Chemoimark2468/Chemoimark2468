@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chemoi Idi
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a juniour Frontend Web Developer
+- 🌱 I have basics of HTML, CSS, JavaScript, React.JS, & Python
 - 📫 How to reach me on idichemoi@gmail.com
 
 <!---
