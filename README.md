@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chemoimark2468
+- 👋 Hi, I’m @Chemoi Idi
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me on idichemoi@gmail.com
